@@ -23,4 +23,4 @@ pause
 * 🧹 **ipconfig /flushdns**: Vacía la caché de resolución de nombres DNS para corregir páginas web que no cargan.
 
 ---
-💻 Creado por rTech.
+ ## 💻 Creado por rTech.
